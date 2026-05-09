@@ -13,4 +13,5 @@ Przed uruchomieniem procesu należy usunąć brakujące wartości z zaznaczonych
 - Python
 
 ## Uwagi
-Normalizacja i dyskretyzacja zostały wykonane przed procedurą Cross Validation w celu zapewnienia spójnych warunków porównania metod preprocessing’u.
+- Należy podać ścieżkę do zbioru danych w bloku READ CSV.
+- Normalizacja i dyskretyzacja zostały wykonane przed procedurą Cross Validation w celu zapewnienia spójnych warunków porównania metod preprocessing’u.
